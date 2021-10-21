@@ -4,8 +4,8 @@
 
 <!-- Skills: JAVA / VUE.JS / REACT / JS / HTML / CSS
  -->
-![GitHub metrics](https://metrics.lecoq.io/youseonHwang)  
-
+<!-- ![GitHub metrics](https://metrics.lecoq.io/youseonHwang)  
+ -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/youseonHwang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/youseon__/)  
  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youseonHwang)](https://github.com/anuraghazra/github-readme-stats)
