@@ -17,7 +17,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🔔 Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youseonHwang)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤸‍♀️ GitHub stats
