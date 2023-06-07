@@ -4,6 +4,5 @@
 
 ## 🤸‍♀️ GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=youseonh&show_icons=false)
-![GitHub metrics](https://metrics.lecoq.io/youseonh) 
 
 
